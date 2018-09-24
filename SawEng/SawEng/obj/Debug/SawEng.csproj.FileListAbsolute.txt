@@ -1,0 +1,14 @@
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\bin\Debug\SawEng.exe.config
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\bin\Debug\SawEng.exe
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\bin\Debug\SawEng.pdb
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.LoginForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.MainForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.NewItemForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.OfficerForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.Properties.Resources.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.SettingsForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.UpdateByIDForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.ViewForm.resources
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.csproj.GenerateResource.Cache
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.exe
+C:\Users\GAYATHRI\Desktop\SawEng\SawEng\obj\Debug\SawEng.pdb
